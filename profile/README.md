@@ -1,4 +1,12 @@
-## Hi there 👋
+# ... WebGL 2D Game
+- There will be a live server running 24/7 [although it wont be necessary, due to the limited authority nature of the almost non-existent client code]
+
+## [Quick, Dirty, Iterative] Source
+- All that matters is socket stability and the client's frame output.
+
+This is an "iterative project" meant to be ... actually fun to develop! If source-code is inconsistent, but the in-game feature works and isn't causing problems - then it can be refined in the future.
+
+In-game assets, lore, creatures, source files, data files, are from inconsistent / various sources.. released licensed under various licenses.
 
 <!--
 
